@@ -7,4 +7,6 @@ this file has been changed
 
 check if the new change will be show
 
-can I use the old file change it and push it 
+now i change the file in other cage
+
+can now?
