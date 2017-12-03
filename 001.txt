@@ -7,7 +7,10 @@ this file has been changed
 
 check if the new change will be show
 
-
 now i change the file in other cage
 
+<<<<<<< HEAD
 try again
+=======
+can now?
+>>>>>>> 826761d0ce11d13393b2dda979ea4a18e365581f
